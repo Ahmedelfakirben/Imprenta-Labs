@@ -1,0 +1,22 @@
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+rsrc_windows_amd64.syso
+
+# Test files and temporary directories
+/build/
+/tmp/
+test-agent.js
+test-queue.js
+*.log
+
+# Inno Setup output
+installer/Output/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
